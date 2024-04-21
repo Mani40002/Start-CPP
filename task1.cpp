@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello! Google Developers Club.";
+    cout<<"Manibhushan Kumar 21 apr.";
     return 0;
 }
